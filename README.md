@@ -6,9 +6,9 @@ Based on TTGEmojiRate for iOS: https://github.com/zekunyan/TTGEmojiRate
  * Allow to get a rating showing a face.
  * touching up and down it is possible to change the smile, changing the rate.
 
-![alt text](https://raw.githubusercontent.com/SilicorniO/PeterSmileRate/master/screenshots/happy.png)
-![alt text](https://raw.githubusercontent.com/SilicorniO/PeterSmileRate/master/screenshots/normal.png)
-![alt text](https://raw.githubusercontent.com/SilicorniO/PeterSmileRate/master/screenshots/sad.png)
+![alt sliding down](https://raw.githubusercontent.com/SilicorniO/PeterSmileRate/master/screenshots/happy.png)
+![alt center](https://raw.githubusercontent.com/SilicorniO/PeterSmileRate/master/screenshots/normal.png)
+![alt sliding up](https://raw.githubusercontent.com/SilicorniO/PeterSmileRate/master/screenshots/sad.png)
 
 ## Dependencies
  * Android SDK 15
@@ -55,6 +55,13 @@ NOT for the moment.
       }
   });
   ```
+
+## Contributors
+
+All contributors will receive virtual high fives from me
+
+![alt high five](https://raw.githubusercontent.com/SilicorniO/PeterSmileRate/master/screenshots/internet-high-five.jpg)
+
 
 ## License
 
